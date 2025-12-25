@@ -49,6 +49,12 @@ Optional / supporting:
 │   ├── architecture.md
 │   ├── compile.md
 │   └── future.md
+|
+├── examples/           # Examples of syntax
+│   ├── check.fl
+│   ├── math.fl
+│   ├── include.fl
+│   └── future.fl
 │
 ├── audit/          # Audit-related notes and experiments
 ├── legacy/         # Old / deprecated implementation (ignored in builds)
