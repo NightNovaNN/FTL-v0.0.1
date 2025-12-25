@@ -49,7 +49,7 @@ Optional / supporting:
 │   ├── architecture.md
 │   ├── compile.md
 │   └── future.md
-|
+│
 ├── examples/           # Examples of syntax
 │   ├── check.fl
 │   ├── math.fl
